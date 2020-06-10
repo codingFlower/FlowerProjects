@@ -1,0 +1,13 @@
+The program will store various information about events, the events will be listed using "TreeView".
+The program will also have functions to register a new user to an event and possibly even add new events (we haven't decided yet).
+The program supports real time flow simulation and can filter out events to upcoming and past events using the given todays date.
+The program also filters out the events by the organisers.
+The program will be able to show the rating of past events and will have a voting system on past events.
+The program reads it's initial data from the file "Event.txt" and doesn't use an absolute path.
+
+Research articles:
+http://www.academia.edu/download/30578198/treeview.doc
+https://www.sciencedirect.com/science/article/pii/S0002944010644343
+https://academic.oup.com/bioinformatics/article/20/17/3246/186177
+
+With these articles we learned how to use "TreeViews" and we implemented them in our program.
